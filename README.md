@@ -13,6 +13,9 @@ Setting up the api-project before running this project is a prerequisite. Please
 Install all the dependencies by running:
 *`npm install`*
 
+
+Create a `.env` file in the root directory of the project and add the environment variables shared in the email for this project
+
 Build the application by running:
 *`npm run build`*
 
